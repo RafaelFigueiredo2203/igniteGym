@@ -1,6 +1,23 @@
-# Welcome to your Expo app 👋
+# igniteGym
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+igniteGym é um aplicativo de React Native desenvolvido para gerenciar treinos diários dos usuários. O app permite o cadastro, login, visualização e marcação de treinos diários, histórico de treinos realizados, atualização de foto e dados do perfil.
+
+## Tecnologias Utilizadas
+- [React Native](https://reactnative.dev/docs/getting-started)
+- [Expo](https://docs.expo.dev/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [Axios](https://axios-http.com/docs/intro)
+- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/docs/install/)
+- [React Navigation](https://reactnavigation.org/docs/getting-started)
+- [Yup](https://github.com/jquense/yup)
+- [Styled Components](https://styled-components.com/docs)
+- [JWT](https://jwt.io/introduction/)
+
+## Funcionalidades
+- Cadastro e login de usuários.
+- Visualização e marcação de treinos diários.
+- Histórico de treinos realizados.
+- Atualização de foto e dados do perfil.
 
 ## Get started
 
