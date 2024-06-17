@@ -1,8 +1,8 @@
 # igniteGym
 
-igniteGym é um aplicativo de React Native desenvolvido para gerenciar treinos diários dos usuários. O app permite o cadastro, login, visualização e marcação de treinos diários, histórico de treinos realizados, atualização de foto e dados do perfil.
+igniteGym is a React Native application designed to manage users' daily workouts. The app allows you to register, log in, view and schedule daily workouts, history of workouts performed, updating photos and profile data.
 
-## Tecnologias Utilizadas
+## Technologies Used
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Expo](https://docs.expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
@@ -13,12 +13,12 @@ igniteGym é um aplicativo de React Native desenvolvido para gerenciar treinos d
 - [Styled Components](https://styled-components.com/docs)
 - [JWT](https://jwt.io/introduction/)
 
-## Funcionalidades
-- Cadastro e login de usuários.
-- Visualização e marcação de treinos diários.
-- Histórico de treinos realizados.
-- Atualização de foto e dados do perfil.
-
+## Functionalities
+- User registration and login.
+- View and schedule daily workouts.
+- History of training performed.
+- Update photo and profile data.
+  
 ## Get started
 
 1. Install dependencies
